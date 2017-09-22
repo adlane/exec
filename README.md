@@ -1,3 +1,5 @@
+[![GoDoc](https://godoc.org/github.com/adlane/exec?status.png)](https://godoc.org/github.com/adlane/exec)
+
 # exec
 A golang package to interact with a process running in background
 
