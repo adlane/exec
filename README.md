@@ -42,8 +42,11 @@ func (*reader) OnTimeout() {}
 ```
 
 ### Output
+
+```bash
 $ echo hello world
 hello world
 $ ls
 bash.go
 cat-random.go 
+```
