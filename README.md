@@ -40,3 +40,10 @@ func (*reader) OnError(b []byte) bool {
 
 func (*reader) OnTimeout() {}
 ```
+
+### Output
+$ echo hello world
+hello world
+$ ls
+bash.go
+cat-random.go 
